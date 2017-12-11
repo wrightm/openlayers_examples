@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch01/ch01-html5-full-screen-map/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch01/ch01-map-controls/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch01/ch01-map-extent/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch01/ch01-map-layers/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch01/ch01-map-options/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch01/ch01-moving-around/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch02/ch02-bing-maps/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch02/ch02-image-layer/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch02/ch02-layer-opacity/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch02/ch02-layer-preloading/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch02/ch02-openstreetmap/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch02/ch02-tile-size/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch02/ch02-wms-layers/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch02/ch02-zoom-effect/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/ch03-clustering/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/ch03-creating-features/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/ch03-export-geojson/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/ch03-geometry-labels/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/ch03-gml-layer/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/ch03-heat-map/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/ch03-kml-layer/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/ch03-markers/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/ch03-reading-features-from-ajax/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/ch03-removing-cloning-feature-overlay/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/ch03-wfs-layer/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/ch03-wkt-format/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch03/ch03-zoom-to-extent/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/ch04/ch04-keyboard-pan-zoom/assets" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
